@@ -4,5 +4,6 @@ public  class AddingforGITDemo {
 
  public void print() {
 	 System.out.println("GIT Test");
+	 System.out.println("Commit test");
  }
 }
